@@ -1,0 +1,58 @@
+body {
+  background-color: navy;
+  padding: 60px; 
+  padding-top: 100px;
+  box-shadow: 0 0 0 60px rgb(229, 172, 46);
+  margin-top: 30px;
+  margin-left: 30px;
+  margin-right: 30px;
+  margin-bottom: 30px;
+}
+
+.banner {
+  width: 40%;
+  border: 0px solid rgb(229, 172, 46);
+  padding: 1px;
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}
+
+.forms {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.instructions {
+  color: navy;
+  background-color: rgb(229, 172, 46);
+  font-family: Arial;
+  letter-spacing: 2px;
+  font-weight: bold;
+  font-size: 23px;
+  padding-left: 50px;
+  margin-top:5px;
+  margin-left: 180px;
+  margin-right: 180px;
+  padding-left:10px;
+  padding-right:10px;
+  padding-top:10px;
+  padding-bottom:10px;
+  border-radius:5px;
+}
+
+.return {
+  color: navy;
+  background-color:rgb(229, 172, 46); 
+  font-family: arial;
+  letter-spacing: 2.5px;
+  font-weight:bold;
+  font-size:23px;
+  padding-left:10px;
+  padding-right:10px;
+  padding-top:10px;
+  padding-bottom:10px;
+  border-radius:5px;
+}
